@@ -1,0 +1,9 @@
+pb_msgs/Vector3 position
+pb_msgs/Vector4 orientation 
+pb_msgs/Vector3 linear_velocity 
+pb_msgs/Vector3 linear_acceleration 
+pb_msgs/Vector3 angular_velocity 
+pb_msgs/Vector3 linear_acceleration_vrf 
+pb_msgs/Vector3 angular_velocity_vrf 
+pb_msgs/Vector3 euler_angles
+float64 heading

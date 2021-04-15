@@ -1,0 +1,95 @@
+Chassis= rospublisher('/apollo/canbus/chassis', 'pb_msgs/Chassis');  
+msg = rosmessage(Chassis);
+msg.EngineStarted= true;
+msg.EngineRpm= 2536.82299805;
+msg.SpeedMps= 5.12330818176;
+msg.OdometerM= 0.0;
+msg.FuelRangeM= 0;
+msg.ThrottlePercentage= 0.0;
+msg.BrakePercentage= 18.5281295776;
+msg.SteeringPercentage= 0.695828616619;
+msg.ParkingBrake= false;
+msg.HighBeamSignal= false;
+msg.LowBeamSignal= false;
+msg.LeftTurnSignal= false;
+msg.RightTurnSignal= false;
+msg.Wiper= false;
+msg.DrivingMode= 'COMPLETE_AUTO_DRIVE';
+msg.Header.Stamp= 1551784842.0;
+msg.Header.ModuleName= "chassis";
+msg.Header.SeqenceNum= 0;
+msg.ChassisGps.Latitude= 37.7907214453;
+msg.ChassisGps.Longitude= -122.399503346;
+msg.ChassisGps.GpsValid= true;
+msg.ChassisGps.Year= 2019;
+msg.ChassisGps.Month= 3;
+msg.ChassisGps.Day= 5;
+msg.ChassisGps.Hours= 20;
+msg.ChassisGps.Minutes= 20;
+msg.ChassisGps.Seconds= 41;
+msg.ChassisGps.CompassDirection= 270.0;
+msg.ChassisGps.Pdop= 0.1;
+msg.ChassisGps.IsGpsFault= false;
+msg.ChassisGps.IsInferred= false;
+msg.ChassisGps.Altitude= 0.0;
+msg.ChassisGps.Heading= 272.02512;
+msg.ChassisGps.Hdop= 0.1;
+msg.ChassisGps.Vdop= 0.1;
+msg.ChassisGps.Quality= 'FIX_3D';
+msg.ChassisGps.NumSatellites= 15;
+msg.ChassisGps.GpsSpeed= 5.12330818176;
+send(Chassis,msg)
+
+======================================================================
+
+test_pub = rospublisher('/Detection4D', 'std_msgs/Header');
+test_msg = rosmessage(test_pub);
+test_msg.Seq = 2323;
+test_msg.Stamp.Sec= 11;
+test_msg.Stamp.Nsec= 22;
+test_msg.FrameId= '99';
+send(test_pub,test_msg)
+
+======================================================================
+
+test_pub2 = rospublisher('/Detection4D', 'std_msgs/Header');
+test_msg2 = rosmessage(test_pub);
+test_msg2.Seq = 5555;
+test_msg2.Stamp.Sec= 99;
+test_msg2.Stamp.Nsec= 88;
+test_msg2.FrameId= '1818';
+send(test_pub2,test_msg2)
+
+======================================================================
+
+O_pub = rospublisher('/apollo/sensor/gnss/odometry', 'pb_msgs/Odometry');
+O_msg = rosmessage(O_pub);
+
+O_pub = rospublisher('/apollo/sensor/gnss/odometry', 'pb_msgs/Gps');
+O_msg = rosmessage(O_pub);
+O_msg = rosmessage('pb_msgs/Gps');
+O_msg = rosmessage('pb_msgs/Chassis');
+
+test= rospublisher('/test','pb_msgs/Num');
+======================================================================
+
+setenv('ROS_MASTER_URI','http://203.246.114.205:11311')
+setenv('ROS_IP', '203.246.114.200')
+rosinit('203.246.114.205', 11311)
+
+
+======================================================================
+
+setenv('ROS_MASTER_URI','http://203.246.114.176:11311')
+setenv('ROS_IP', '203.246.114.200')
+rosinit('203.246.114.176', 11311)
+
+======================================================================
+
+test_sub = rossubscriber('/Detection4D', 'std_msgs/Header')
+msg2 = receive(test_sub,10)
+
+======================================================================
+
+chassis_sub = rossubscriber('/apollo/canbus/chassis', 'pb_msgs/Chassis')
+msg = receive(chassis_sub,100)

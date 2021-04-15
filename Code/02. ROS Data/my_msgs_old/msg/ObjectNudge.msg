@@ -1,0 +1,2 @@
+my_msgs/NudgeType type
+float64 distance_l

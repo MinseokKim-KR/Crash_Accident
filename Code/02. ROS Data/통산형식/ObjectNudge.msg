@@ -1,0 +1,2 @@
+pb_msgs/NudgeType type
+float distance_l

@@ -1,0 +1,92 @@
+header {
+  float64 timestamp_sec
+  string module_name
+  int sequence_num
+  int lidar_timestamp
+  int camera_timestamp
+  int radar_timestamp
+  status {
+    error_code: OK --------------------
+  }
+}
+float64 throttle
+float64 brake
+float64 steering_rate
+float64 steering_target
+gear_location: GEAR_DRIVE --------------------
+debug {
+  simple_lon_debug {
+    float64 station_reference
+    float64 station_error
+    float64 station_error_limited
+    float64 preview_station_error
+    float64 speed_reference
+    float64 speed_error
+    float64 speed_controller_input_limited
+    float64 preview_speed_reference
+    float64 preview_speed_error
+    float64 preview_acceleration_reference
+    float64 acceleration_cmd_closeloop
+    float64 acceleration_cmd
+    float64 acceleration_lookup
+    float64 speed_lookup
+    float64 calibration_value
+    float64 throttle_cmd
+    float64 brake_cmd
+    bool is_full_stop
+    float64 slope_offset_compensation
+    float64 current_station
+    float64 path_remain
+  }
+  simple_lat_debug {
+    float64 lateral_error
+    float64 ref_heading
+    float64 heading
+    float64 heading_error
+    float64 heading_error_rate
+    float64 lateral_error_rate
+    float64 curvature
+    float64 steer_angle
+    float64 steer_angle_feedforward
+    float64 steer_angle_lateral_contribution
+    float64 steer_angle_lateral_rate_contribution
+    float64 steer_angle_heading_contribution
+    float64 steer_angle_heading_rate_contribution
+    float64 steer_angle_feedback
+    float64 steering_position
+    float64 ref_speed
+    float64 steer_angle_limited
+  }
+  input_debug {
+    localization_header {
+      float64 timestamp_sec
+      string module_name
+      int sequence_num
+    }
+    canbus_header {
+      float64 timestamp_sec
+      string module_name
+      int sequence_num
+    }
+    trajectory_header {
+      float64 timestamp_sec
+      string module_name
+      int sequence_num
+      int lidar_timestamp
+      int camera_timestamp
+      int radar_timestamp
+    }
+  }
+}
+signal {
+  turn_signal: TURN_NONE --------------------
+}
+latency_stats {
+  float64 total_time_ms
+  float64 controller_time_ms
+  float64 controller_time_ms
+  bool total_time_exceeded
+}
+engage_advice {
+  advice: READY_TO_ENGAGE --------------------
+}

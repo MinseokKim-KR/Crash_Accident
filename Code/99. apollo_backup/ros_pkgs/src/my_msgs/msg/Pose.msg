@@ -1,0 +1,9 @@
+my_msgs/PointENU position
+my_msgs/Quaternion orientation
+my_msgs/Point3D linear_velocity
+my_msgs/Point3D linear_acceleration
+my_msgs/Point3D angular_velocity
+float64 heading
+my_msgs/Point3D linear_acceleration_vrf
+my_msgs/Point3D angular_velocity_vrf
+my_msgs/Point3D euler_angles

@@ -1,0 +1,47 @@
+traffic_light {
+  color: GREEN --------------------
+  string id
+  float64 confidence
+}
+header {
+  float64 timestamp_sec
+  string module_name
+  int sequence_num
+  int camera_timestamp
+}
+traffic_light_debug {
+  cropbox {
+    int x
+    int y
+    int width
+    int height
+  }
+  box {
+    int x
+    int y
+    int width
+    int height
+    color: GREEN --------------------
+    bool selected
+  }
+  box {
+    int x
+    int y
+    int width
+    int height
+  }
+  box {
+    int x
+    int y
+    int width
+    int height
+  }
+  int signal_num
+  int valid_pos
+  float64 ts_diff_pos
+  float64 ts_diff_sys
+  int project_error
+  float64 distance_to_stop_line
+  int camera_id
+}
+bool contain_lights

@@ -1,0 +1,8 @@
+prefix=/apollo/ros_pkgs/devel
+
+Name: lgsvl_msgs
+Description: Description of lgsvl_msgs
+Version: 1.9.0
+Cflags: -I/apollo/ros_pkgs/devel/include
+Libs: -L/apollo/ros_pkgs/devel/lib 
+Requires: message_runtime geometry_msgs sensor_msgs std_msgs

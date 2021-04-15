@@ -1,0 +1,327 @@
+header {
+  float64 timestamp_sec
+  string module_name
+  int sequence_num
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key:
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+    topic_status {
+      float64 message_delay
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: OK --------------------
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+    topic_status {
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+modules {
+  string key
+  value {
+    summary: FATAL --------------------
+    string msg
+    process_status {
+      bool running
+    }
+  }
+}
+hardware {
+  string key
+  value {
+    summary: UNKNOWN --------------------
+  }
+}
+hardware {
+  string key
+  value {
+    summary: ERROR --------------------
+    string msg
+    status: ERR --------------------
+    string detailed_msg
+  }
+}
+hardware {
+  string key
+  value {
+    summary: ERROR --------------------
+    string msg
+    topic_status {
+      float64 message_delay
+    }
+  }
+}
+hardware {
+  string key
+  value {
+    summary: ERROR --------------------
+    string msg
+    topic_status {
+      float64 message_delay
+    }
+  }
+}
+hardware {
+  string key
+  value {
+    summary: OK --------------------
+    topic_status {
+    }
+  }
+}
+string passenger_msg
+float64 safety_mode_trigger_time
+bool require_emergency_stop

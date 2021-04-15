@@ -1,0 +1,8 @@
+prefix=/apollo/ros_pkgs/install
+
+Name: my_msgs
+Description: Description of my_msgs
+Version: 0.1.0
+Cflags: -I/apollo/ros_pkgs/install/include
+Libs: -L/apollo/ros_pkgs/install/lib -lmy_msgs
+Requires: roscpp rospy std_msgs message_runtime

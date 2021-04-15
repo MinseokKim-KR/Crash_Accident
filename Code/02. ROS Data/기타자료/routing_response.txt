@@ -1,0 +1,593 @@
+header {
+  float64 timestamp_sec
+  string module_name
+  int sequence_num
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: RIGHT --------------------
+  }
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: LEFT --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: LEFT --------------------
+  }
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: RIGHT --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: RIGHT --------------------
+  }
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: RIGHT --------------------
+  }
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: LEFT --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: LEFT --------------------
+  }
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+road {
+  string id
+  passage {
+    segment {
+      string id
+      float64 start_s
+      float64 end_s
+    }
+    bool can_exit
+    change_lane_type: FORWARD --------------------
+  }
+}
+measurement {
+  float64 distance
+}
+routing_request {
+  header {
+    float64 timestamp_sec
+    string module_name
+    int sequence_num
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+  waypoint {
+    string id
+    float64 s
+    pose {
+      float64 x
+      float64 y
+    }
+  }
+}
+string map_version
+status {
+  error_code: OK --------------------
+  string msg
+}

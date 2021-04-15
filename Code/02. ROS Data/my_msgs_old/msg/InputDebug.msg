@@ -1,0 +1,3 @@
+my_msgs/Header localization_header
+my_msgs/Header canbus_header
+my_msgs/Header trajectory_header

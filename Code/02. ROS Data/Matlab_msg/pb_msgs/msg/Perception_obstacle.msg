@@ -1,0 +1,12 @@
+int64 id
+float64 theta
+float64 length
+float64 width
+float64 height
+float64 tracking_time
+string type
+float64 timestamp
+float64 confidence
+string confidence_type
+pb_msgs/Vector3 velocity 
+pb_msgs/Vector3 position 

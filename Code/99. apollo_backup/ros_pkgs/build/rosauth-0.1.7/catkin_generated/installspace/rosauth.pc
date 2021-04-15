@@ -1,0 +1,8 @@
+prefix=/apollo/ros_pkgs/install
+
+Name: rosauth
+Description: Description of rosauth
+Version: 0.1.7
+Cflags: -I/apollo/ros_pkgs/install/include
+Libs: -L/apollo/ros_pkgs/install/lib 
+Requires: roscpp message_runtime

@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /apollo/ros_pkgs/src/rosbridge_suite/rosbridge_library
+# Build directory: /apollo/ros_pkgs/build/rosbridge_suite/rosbridge_library
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+ADD_TEST(_ctest_rosbridge_library_rostest_test_capabilities_test_capabilities.test "/apollo/ros_pkgs/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/home/tmp/ros/share/catkin/cmake/test/run_tests.py" "/apollo/ros_pkgs/build/test_results/rosbridge_library/rostest-test_capabilities_test_capabilities.xml" "--return-code" "/home/tmp/ros/share/rostest/cmake/../../../bin/rostest --pkgdir=/apollo/ros_pkgs/src/rosbridge_suite/rosbridge_library --package=rosbridge_library --results-filename test_capabilities_test_capabilities.xml --results-base-dir \"/apollo/ros_pkgs/build/test_results\" /apollo/ros_pkgs/src/rosbridge_suite/rosbridge_library/test/capabilities/test_capabilities.test ")
+ADD_TEST(_ctest_rosbridge_library_rostest_test_internal_test_internal.test "/apollo/ros_pkgs/build/catkin_generated/env_cached.sh" "/usr/bin/python" "/home/tmp/ros/share/catkin/cmake/test/run_tests.py" "/apollo/ros_pkgs/build/test_results/rosbridge_library/rostest-test_internal_test_internal.xml" "--return-code" "/home/tmp/ros/share/rostest/cmake/../../../bin/rostest --pkgdir=/apollo/ros_pkgs/src/rosbridge_suite/rosbridge_library --package=rosbridge_library --results-filename test_internal_test_internal.xml --results-base-dir \"/apollo/ros_pkgs/build/test_results\" /apollo/ros_pkgs/src/rosbridge_suite/rosbridge_library/test/internal/test_internal.test ")

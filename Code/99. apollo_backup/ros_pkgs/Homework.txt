@@ -1,0 +1,89 @@
+Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a = u"안녕".encode("UTF-8)
+  File "<stdin>", line 1
+    a = u"안녕".encode("UTF-8)
+                            ^
+SyntaxError: EOL while scanning string literal
+>>> a = u"안녕".encode("UTF-8")
+>>> a
+b'\xec\x95\x88\xeb\x85\x95'
+>>> b=u"안녕".encode("ks")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+LookupError: unknown encoding: ks
+>>> b=u"안녕"
+>>> b 
+'안녕'
+>>> b=u"안녕".encode("euc-kr")
+>>> b
+b'\xbe\xc8\xb3\xe7'
+>>> a
+b'\xec\x95\x88\xeb\x85\x95'
+>>> b=u"가".encode("euc-kr")
+>>> a = u"가".encode("UTF-8")
+>>> a
+b'\xea\xb0\x80'
+>>> b
+b'\xb0\xa1'
+>>> len (a)
+3
+>>> len(b)
+2
+>>> a = u"가나다".encode("UTF-8")
+>>> b=u"가나다".encode("euc-kr")
+>>> len (a)
+9
+>>> len(b)
+6
+>>> f = open("test.txt",'r')
+>>> line = f.readlines()
+>>> line
+['이건 테스트 파일 입니다.\n']
+>>> line[0]
+'이건 테스트 파일 입니다.\n'
+>>> line[0][0]
+'이'
+>>> t = bytes(line[0][0])
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: string argument without an encoding
+>>> t = b(line[0][0])
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'bytes' object is not callable
+>>> t = encode(line[0][0])
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'encode' is not defined
+>>> t = bytes(line[0][0])
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: string argument without an encoding
+>>> len(line)
+1
+>>> len(line[0])
+15
+>>> B = line[0][0].encode()
+>>> B
+b'\xec\x9d\xb4'
+>>> t="이건 테스트 파일입니다.\n".encode("euc-kr")
+>>> A = t.encode()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'bytes' object has no attribute 'encode'
+>>> t = encode(line[0][0],euc-kr)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'encode' is not defined
+>>> B = line[0][0].encode('euc-kr')
+>>> B
+b'\xc0\xcc'
+>>> f2= open('test.txt',"rb").read()
+>>> f2
+b'\xec\x9d\xb4\xea\xb1\xb4 \xed\x85\x8c\xec\x8a\xa4\xed\x8a\xb8 \xed\x8c\x8c\xec\x9d\xbc \xec\x9e\x85\xeb\x8b\x88\xeb\x8b\xa4.\n'
+>>> line[0][0]
+'이'
+>>> f2
+

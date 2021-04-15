@@ -1,0 +1,20 @@
+(cl:in-package my_msgs-msg)
+(cl:export '(POSITION-VAL
+          POSITION
+          ORIENTATION-VAL
+          ORIENTATION
+          LINEAR_VELOCITY-VAL
+          LINEAR_VELOCITY
+          LINEAR_ACCELRATION-VAL
+          LINEAR_ACCELRATION
+          ANGULAR_VELOCITY-VAL
+          ANGULAR_VELOCITY
+          HEADING-VAL
+          HEADING
+          LINEAR_ACCELERATION_VRF-VAL
+          LINEAR_ACCELERATION_VRF
+          ANGULAR_VELOCITY_VRF-VAL
+          ANGULAR_VELOCITY_VRF
+          EULER_ANGLES-VAL
+          EULER_ANGLES
+))

@@ -1,0 +1,5 @@
+my_msgs/Header header
+float64 measurement_time
+float64 measurement_span
+my_msgs/Point3D linear_acceleration
+my_msgs/Point3D angular_velocity

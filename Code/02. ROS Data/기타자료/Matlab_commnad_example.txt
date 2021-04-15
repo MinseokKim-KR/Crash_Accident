@@ -1,0 +1,31 @@
+setenv('ROS_IP', '203.246.114.200')
+rosinit('203.246.114.176', 11311)
+
+======================================================================
+
+setenv('ROS_IP', '203.246.114.200')
+rosinit('203.246.114.205', 11311)
+
+======================================================================
+
+test_pub = rospublisher('/Detection4D', 'std_msgs/Header');;
+test_msg = rosmessage(test_pub);
+test_msg.Seq = 2323;
+test_msg.Stamp.Sec= 11;
+test_msg.Stamp.Nsec= 22;
+test_msg.FrameId= '99';
+send(test_pub,test_msg)
+
+======================================================================
+
+chatterpub = rospublisher('/apollo/chasse', 'std_msgs/String');
+chattermsg = rosmessage(chatterpub);
+chattermsg.Data = 'Connection Success';
+send(chatterpub,chattermsg)
+
+======================================================================
+
+test_pub = rospublisher('/Detection3D', 'std_msgs/String');
+test_msg = rosmessage(test_pub);
+test_msg.Data='This is the test.';
+send(test_pub,test_msg)

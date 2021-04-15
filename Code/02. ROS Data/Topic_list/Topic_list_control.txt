@@ -1,0 +1,47 @@
+/apollo/canbus/chassis Chassis
+/apollo/control ControlCommand
+/apollo/control/pad PadMessage
+/apollo/drive_event DriveEvent
+/apollo/hmi/audio_capture AudioCapture
+/apollo/localization/msf_status LocalizationStatus
+/apollo/localization/pose LocalizationEstimate
+/apollo/monitor MonitorMessage
+/apollo/monitor/static_info StaticInfo
+/apollo/monitor/system_status SystemStatus
+/apollo/navigation NavigationInfo
+/apollo/perception/lane_mask Image
+/apollo/perception/obstacles PerceptionObstacles
+/apollo/perception/traffic_light TrafficLightDetection
+/apollo/planning ADCTrajectory
+/apollo/planning/pad PadMessage
+/apollo/prediction PredictionObstacles  
+/apollo/relative_map MapMsg
+/apollo/routing_request RoutingRequest 
+/apollo/routing_response RoutingResponse
+/apollo/sensor/camera/obstacle/front_6mm Image
+/apollo/sensor/camera/traffic/image_long Image
+/apollo/sensor/camera/traffic/image_long/compressed CompressedImage
+/apollo/sensor/camera/traffic/image_short Image
+/apollo/sensor/camera/traffic/image_short/compressed CompressedImage
+/apollo/sensor/conti_radar ContiRadar
+/apollo/sensor/gnss/best_pose GnssBestPose
+/apollo/sensor/gnss/corrected_imu CorrectedImu
+/apollo/sensor/gnss/gnss_status GnssStatus
+/apollo/sensor/gnss/imu Imu 
+/apollo/sensor/gnss/ins_status InsStatus
+/apollo/sensor/gnss/odometry Gps
+/apollo/sensor/mobileye Mobileye
+/apollo/sensor/velodyne16/compensator/PointCloud2 PointCloud2
+/apollo/sensor/velodyne64/compensator/PointCloud2 PointCloud2
+/rosout Log ===========
+/rosout_agg Log===============
+/simulator/reset Vector3============
+/simulator/sensor/camera/left/compressed CompressedImage  -  데이터 추출이 안됨
+/simulator/sensor/camera/right/compressed CompressedImage - 데이터 추출이 안됨
+/simulator/sensor/segmentation_camera/compressed CompressedImage
+/tf TFMessage
+/tf_static TFMessage
+
+find . -name '*.jpg' \
+| awk 'BEGIN{ a=0 }{ printf "mv \"%s\" data_%02d.sh\n", $0, a++ }' \
+| bash

@@ -1,0 +1,3 @@
+float64 distance_s
+my_msgs/PointENU fence_point32
+float64 fence_heading

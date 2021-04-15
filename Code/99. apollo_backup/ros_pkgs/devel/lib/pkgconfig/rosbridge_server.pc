@@ -1,0 +1,8 @@
+prefix=/apollo/ros_pkgs/devel
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.8.6
+Cflags: 
+Libs: -L/apollo/ros_pkgs/devel/lib 
+Requires: 

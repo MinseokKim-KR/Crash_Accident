@@ -1,0 +1,62 @@
+perception_obstacle {
+  int id
+  position {
+    float64 x
+    float64 y
+    float64 z
+  }
+  float64 theta
+  velocity {
+    float64 x
+    float64 y
+    float64 z
+  }
+  float64 length
+  float64 width
+  float64 height
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  polygon_point {
+    float64 x
+    float64 y
+    float64 z
+  }
+  float64 tracking_time
+  type: VEHICLE --------------------
+  float64 timestamp
+  float64 confidence
+  confidence_type: CONFIDENCE_CNN --------------------
+}

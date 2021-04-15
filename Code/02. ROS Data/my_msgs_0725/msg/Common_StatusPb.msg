@@ -1,0 +1,2 @@
+my_msgs/ErrorCode error_code
+string msg

@@ -1,0 +1,10 @@
+header {
+  float64 timestamp_sec
+  string module_name
+  int sequence_num
+}
+item {
+  source: MONITOR --------------------
+  string msg
+  log_level: ERROR --------------------
+}

@@ -1,0 +1,7 @@
+simulink ros setting
+
+setenv('ROS_MASTER_URI','http://203.246.114.231:11311')
+
+setenv('ROS_IP', '113.198.211.150')
+
+rosinit('203.246.114.231', 11311)

@@ -1,0 +1,8 @@
+prefix=/apollo/ros_pkgs/install
+
+Name: rosapi
+Description: Description of rosapi
+Version: 0.8.6
+Cflags: -I/apollo/ros_pkgs/install/include
+Libs: -L/apollo/ros_pkgs/install/lib 
+Requires: message_runtime

@@ -1,0 +1,2 @@
+lgsvl_msgs:my_msgs:rosauth-0.1.7:rosbridge_suite/rosapi:rosbridge_suite/rosbridge_library:rosbridge_suite/rosbridge_server:rosbridge_suite/rosbridge_suite
+-DCATKIN_DEVEL_PREFIX=/apollo/ros_pkgs/devel -DCMAKE_INSTALL_PREFIX=/apollo/ros_pkgs/install -G Unix Makefiles

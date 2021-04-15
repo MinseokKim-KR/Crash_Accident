@@ -1,0 +1,3 @@
+pb_msgs/Segment segment
+bool can_exit
+string change_lane_type

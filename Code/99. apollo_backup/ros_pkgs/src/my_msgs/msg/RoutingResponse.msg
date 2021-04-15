@@ -1,0 +1,2 @@
+my_msgs/Header header
+my_msgs/Common_StatusPb status

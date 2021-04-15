@@ -1,0 +1,5 @@
+string docker_image
+string commit_id
+string mode
+pb_msgs/Latest_routing_request latest_routing_request 
+pb_msgs/Waypoint waypoint

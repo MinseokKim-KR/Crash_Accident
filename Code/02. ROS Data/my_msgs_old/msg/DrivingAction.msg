@@ -1,0 +1,3 @@
+int32 STOP
+int32 START
+int32 RESET

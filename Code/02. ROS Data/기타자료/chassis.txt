@@ -1,0 +1,42 @@
+bool engine_started
+float64 engine_rpm
+float64 speed_mps
+float64 odometer_m
+int fuel_range_m
+float64 throttle_percentage
+float64 brake_percentage
+float64 steering_percentage
+bool parking_brake
+bool high_beam_signal
+bool low_beam_signal
+bool left_turn_signal
+bool right_turn_signal
+bool wiper
+driving_mode: COMPLETE_AUTO_DRIVE --------------------
+header {
+  float64 timestamp_sec
+  string module_name
+  int sequence_num
+}
+chassis_gps {
+  float64 latitude
+  float64 longitude
+  bool gps_valid
+  int year
+  int month
+  int day
+  int hours
+  int minutes
+  int seconds
+  float64 compass_direction
+  float64 pdop
+  bool is_gps_fault
+  bool is_inferred
+  float64 altitude
+  float64 heading
+  float64 hdop
+  float64 vdop
+  quality: FIX_3D --------------------
+  int num_satellites
+  float64 gps_speed
+}

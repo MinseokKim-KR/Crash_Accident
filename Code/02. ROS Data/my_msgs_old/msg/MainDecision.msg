@@ -1,0 +1,3 @@
+my_msgs/MainMissionComplete mission_complete
+my_msgs/MainNotReady not_ready
+my_msgs/MainParking parking

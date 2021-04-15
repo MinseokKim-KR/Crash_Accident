@@ -1,0 +1,3 @@
+string id
+int32 perception_id
+my_msgs/ObjectDecisionType object_decision

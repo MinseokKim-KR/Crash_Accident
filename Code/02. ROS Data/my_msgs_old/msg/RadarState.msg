@@ -1,0 +1,6 @@
+int32 max_distance
+int32 radar_power
+my_msgs/Conti_Radar_OutputType output_type
+my_msgs/Conti_Radar_RcsThreshold rcs_threshold
+bool send_quality
+bool send_ext_info

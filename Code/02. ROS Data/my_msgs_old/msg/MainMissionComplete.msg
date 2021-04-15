@@ -1,0 +1,2 @@
+my_msgs/PointENU stop_point32
+float64 stop_heading

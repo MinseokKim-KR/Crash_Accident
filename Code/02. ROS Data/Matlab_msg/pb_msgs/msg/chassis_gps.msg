@@ -1,0 +1,21 @@
+float64 latitude
+float64 longitude
+bool gps_valid
+int64 year
+int64 month
+int64 day
+int64 hours
+int64 minutes
+int64 seconds
+float64 compass_direction
+float64 pdop
+bool is_gps_fault
+bool is_inferred
+float64 altitude
+float64 heading
+float64 hdop
+float64 vdop
+string quality
+int64 num_satellites
+float64 gps_speed
+

@@ -1,0 +1,2 @@
+pb_msgs/PointENU stop_point
+float stop_heading

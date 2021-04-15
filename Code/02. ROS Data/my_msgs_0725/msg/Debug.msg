@@ -1,0 +1,4 @@
+my_msgs/SimpleLongitudinalDebug simple_lon_debug
+my_msgs/SimpleLateralDebug simple_lat_debug
+my_msgs/InputDebug input_debug
+my_msgs/SimpleMPCDebug simple_mpc_debug

@@ -1,0 +1,5 @@
+my_msgs/Header header
+my_msgs/ContiRadarObs[] contiobs
+my_msgs/RadarState radar_state
+my_msgs/ClusterListStatus cluster_list_status
+my_msgs/ObjectListStatus object_list_status

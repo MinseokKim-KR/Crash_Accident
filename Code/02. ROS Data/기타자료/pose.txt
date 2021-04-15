@@ -1,0 +1,50 @@
+header {
+  float64 timestamp_sec
+  string module_name
+  int sequence_num
+}
+pose {
+  position {
+    float64 x
+    float64 y
+    float64 z
+  }
+  orientation {
+    float64 qx
+    float64 qy
+    float64 qz
+    float64 qw
+  }
+  linear_velocity {
+    float64 x
+    float64 y
+    float64 z
+  }
+  linear_acceleration {
+    float64 x
+    float64 y
+    float64 z
+  }
+  angular_velocity {
+    float64 x
+    float64 y
+    float64 z
+  }
+  float64 heading
+  linear_acceleration_vrf {
+    float64 x
+    float64 y
+    float64 z
+  }
+  angular_velocity_vrf {
+    float64 x
+    float64 y
+    float64 z
+  }
+  euler_angles {
+    float64 x
+    float64 y
+    float64 z
+  }
+}
+float64 measurement_time

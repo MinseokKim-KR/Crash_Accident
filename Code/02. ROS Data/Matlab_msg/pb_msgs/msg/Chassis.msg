@@ -1,0 +1,18 @@
+bool engine_started
+float64 engine_rpm
+float64 speed_mps
+float64 odometer_m
+int64 fuel_range_m
+float64 throttle_percentage
+float64 brake_percentage
+float64 steering_percentage
+bool parking_brake
+bool high_beam_signal
+bool low_beam_signal
+bool left_turn_signal
+bool right_turn_signal
+bool wiper
+string driving_mode
+pb_msgs/Header_mine header
+pb_msgs/chassis_gps chassis_gps
+

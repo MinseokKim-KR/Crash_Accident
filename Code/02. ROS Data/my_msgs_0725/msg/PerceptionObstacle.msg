@@ -1,0 +1,13 @@
+int32 id
+my_msgs/Point3D position
+float64 theta 
+my_msgs/Point3D velocity
+float64 length
+float64 width
+float64 height
+my_msgs/Point3D[] polygon_point
+float64 tracking_time
+int32 type
+float64 timestamp
+float64 confidence
+int32 confidence_type

@@ -1,0 +1,25 @@
+std_msgs/Header header
+bool clusterortrack
+int64 obstacle_id
+float64 longitude_dist
+float64 lateral_dist
+float64 longitude_vel
+float64 lateral_vel
+float64 rcs
+int64 dynprop
+float64 longitude_dist_rms
+float64 lateral_dist_rms
+float64 longitude_vel_rms
+float64 lateral_vel_rms
+float64 probexist
+int64 meas_state
+float64 longitude_accel
+float64 lateral_accel
+float64 oritation_angle
+float64 longitude_accel_rms
+float64 lateral_accel_rms
+float64 oritation_angle_rms
+float64 length
+float64 width
+int64 obstacle_class
+

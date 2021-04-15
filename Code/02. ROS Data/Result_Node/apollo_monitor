@@ -1,0 +1,4670 @@
+header {
+  timestamp_sec: 1551784844.63
+  module_name: "monitor"
+  sequence_num: 986
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784845.23
+  module_name: "monitor"
+  sequence_num: 987
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784845.76
+  module_name: "monitor"
+  sequence_num: 988
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784846.28
+  module_name: "monitor"
+  sequence_num: 989
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784846.8
+  module_name: "monitor"
+  sequence_num: 990
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784847.32
+  module_name: "monitor"
+  sequence_num: 991
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784847.84
+  module_name: "monitor"
+  sequence_num: 992
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784848.36
+  module_name: "monitor"
+  sequence_num: 993
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784848.88
+  module_name: "monitor"
+  sequence_num: 994
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784849.4
+  module_name: "monitor"
+  sequence_num: 995
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784849.92
+  module_name: "monitor"
+  sequence_num: 996
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784850.44
+  module_name: "monitor"
+  sequence_num: 997
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784850.96
+  module_name: "monitor"
+  sequence_num: 998
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784851.48
+  module_name: "monitor"
+  sequence_num: 999
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784852.0
+  module_name: "monitor"
+  sequence_num: 1000
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784852.52
+  module_name: "monitor"
+  sequence_num: 1001
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784853.04
+  module_name: "monitor"
+  sequence_num: 1002
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784853.56
+  module_name: "monitor"
+  sequence_num: 1003
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784854.08
+  module_name: "monitor"
+  sequence_num: 1004
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784854.6
+  module_name: "monitor"
+  sequence_num: 1005
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784855.12
+  module_name: "monitor"
+  sequence_num: 1006
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784855.64
+  module_name: "monitor"
+  sequence_num: 1007
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784856.16
+  module_name: "monitor"
+  sequence_num: 1008
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784856.69
+  module_name: "monitor"
+  sequence_num: 1009
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784857.21
+  module_name: "monitor"
+  sequence_num: 1010
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784857.73
+  module_name: "monitor"
+  sequence_num: 1011
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784858.25
+  module_name: "monitor"
+  sequence_num: 1012
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784858.77
+  module_name: "monitor"
+  sequence_num: 1013
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784859.29
+  module_name: "monitor"
+  sequence_num: 1014
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784859.81
+  module_name: "monitor"
+  sequence_num: 1015
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784860.33
+  module_name: "monitor"
+  sequence_num: 1016
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784860.85
+  module_name: "monitor"
+  sequence_num: 1017
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784861.37
+  module_name: "monitor"
+  sequence_num: 1018
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784861.89
+  module_name: "monitor"
+  sequence_num: 1019
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784862.41
+  module_name: "monitor"
+  sequence_num: 1020
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784862.94
+  module_name: "monitor"
+  sequence_num: 1021
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784863.46
+  module_name: "monitor"
+  sequence_num: 1022
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784863.97
+  module_name: "monitor"
+  sequence_num: 1023
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784864.5
+  module_name: "monitor"
+  sequence_num: 1024
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784865.02
+  module_name: "monitor"
+  sequence_num: 1025
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784865.54
+  module_name: "monitor"
+  sequence_num: 1026
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784866.07
+  module_name: "monitor"
+  sequence_num: 1027
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784866.58
+  module_name: "monitor"
+  sequence_num: 1028
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784867.1
+  module_name: "monitor"
+  sequence_num: 1029
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784867.63
+  module_name: "monitor"
+  sequence_num: 1030
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784868.15
+  module_name: "monitor"
+  sequence_num: 1031
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784868.67
+  module_name: "monitor"
+  sequence_num: 1032
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784869.19
+  module_name: "monitor"
+  sequence_num: 1033
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784869.71
+  module_name: "monitor"
+  sequence_num: 1034
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784870.23
+  module_name: "monitor"
+  sequence_num: 1035
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784870.75
+  module_name: "monitor"
+  sequence_num: 1036
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784871.27
+  module_name: "monitor"
+  sequence_num: 1037
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784871.79
+  module_name: "monitor"
+  sequence_num: 1038
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784872.31
+  module_name: "monitor"
+  sequence_num: 1039
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784872.83
+  module_name: "monitor"
+  sequence_num: 1040
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784873.35
+  module_name: "monitor"
+  sequence_num: 1041
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784873.87
+  module_name: "monitor"
+  sequence_num: 1042
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784874.39
+  module_name: "monitor"
+  sequence_num: 1043
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784874.91
+  module_name: "monitor"
+  sequence_num: 1044
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784875.43
+  module_name: "monitor"
+  sequence_num: 1045
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784875.95
+  module_name: "monitor"
+  sequence_num: 1046
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784876.47
+  module_name: "monitor"
+  sequence_num: 1047
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784878.31
+  module_name: "monitor"
+  sequence_num: 1048
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784878.84
+  module_name: "monitor"
+  sequence_num: 1049
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784879.36
+  module_name: "monitor"
+  sequence_num: 1050
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784879.88
+  module_name: "monitor"
+  sequence_num: 1051
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784880.4
+  module_name: "monitor"
+  sequence_num: 1052
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784880.92
+  module_name: "monitor"
+  sequence_num: 1053
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784881.44
+  module_name: "monitor"
+  sequence_num: 1054
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784881.96
+  module_name: "monitor"
+  sequence_num: 1055
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784882.48
+  module_name: "monitor"
+  sequence_num: 1056
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784883.0
+  module_name: "monitor"
+  sequence_num: 1057
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784883.52
+  module_name: "monitor"
+  sequence_num: 1058
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784884.04
+  module_name: "monitor"
+  sequence_num: 1059
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784884.56
+  module_name: "monitor"
+  sequence_num: 1060
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784885.08
+  module_name: "monitor"
+  sequence_num: 1061
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784885.7
+  module_name: "monitor"
+  sequence_num: 1062
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784886.21
+  module_name: "monitor"
+  sequence_num: 1063
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784886.74
+  module_name: "monitor"
+  sequence_num: 1064
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784887.26
+  module_name: "monitor"
+  sequence_num: 1065
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784887.78
+  module_name: "monitor"
+  sequence_num: 1066
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784888.3
+  module_name: "monitor"
+  sequence_num: 1067
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784888.82
+  module_name: "monitor"
+  sequence_num: 1068
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784889.34
+  module_name: "monitor"
+  sequence_num: 1069
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784889.86
+  module_name: "monitor"
+  sequence_num: 1070
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784890.38
+  module_name: "monitor"
+  sequence_num: 1071
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784890.9
+  module_name: "monitor"
+  sequence_num: 1072
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784891.42
+  module_name: "monitor"
+  sequence_num: 1073
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784891.94
+  module_name: "monitor"
+  sequence_num: 1074
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784892.46
+  module_name: "monitor"
+  sequence_num: 1075
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784892.98
+  module_name: "monitor"
+  sequence_num: 1076
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784893.5
+  module_name: "monitor"
+  sequence_num: 1077
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784894.02
+  module_name: "monitor"
+  sequence_num: 1078
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784894.55
+  module_name: "monitor"
+  sequence_num: 1079
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784895.06
+  module_name: "monitor"
+  sequence_num: 1080
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784895.59
+  module_name: "monitor"
+  sequence_num: 1081
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784896.11
+  module_name: "monitor"
+  sequence_num: 1082
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784896.63
+  module_name: "monitor"
+  sequence_num: 1083
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784897.15
+  module_name: "monitor"
+  sequence_num: 1084
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784897.67
+  module_name: "monitor"
+  sequence_num: 1085
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784898.19
+  module_name: "monitor"
+  sequence_num: 1086
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784898.71
+  module_name: "monitor"
+  sequence_num: 1087
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784899.23
+  module_name: "monitor"
+  sequence_num: 1088
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784899.75
+  module_name: "monitor"
+  sequence_num: 1089
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784900.27
+  module_name: "monitor"
+  sequence_num: 1090
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784900.79
+  module_name: "monitor"
+  sequence_num: 1091
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784901.31
+  module_name: "monitor"
+  sequence_num: 1092
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784901.83
+  module_name: "monitor"
+  sequence_num: 1093
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784902.35
+  module_name: "monitor"
+  sequence_num: 1094
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784902.87
+  module_name: "monitor"
+  sequence_num: 1095
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784903.39
+  module_name: "monitor"
+  sequence_num: 1096
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784903.92
+  module_name: "monitor"
+  sequence_num: 1097
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784904.44
+  module_name: "monitor"
+  sequence_num: 1098
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784904.95
+  module_name: "monitor"
+  sequence_num: 1099
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784905.49
+  module_name: "monitor"
+  sequence_num: 1100
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784906.01
+  module_name: "monitor"
+  sequence_num: 1101
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784906.53
+  module_name: "monitor"
+  sequence_num: 1102
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784907.05
+  module_name: "monitor"
+  sequence_num: 1103
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784907.57
+  module_name: "monitor"
+  sequence_num: 1104
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784908.09
+  module_name: "monitor"
+  sequence_num: 1105
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784908.21
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784908.61
+  module_name: "monitor"
+  sequence_num: 1106
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784910.17
+  module_name: "monitor"
+  sequence_num: 1107
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784910.71
+  module_name: "monitor"
+  sequence_num: 1108
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784911.23
+  module_name: "monitor"
+  sequence_num: 1109
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784911.74
+  module_name: "monitor"
+  sequence_num: 1110
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784912.27
+  module_name: "monitor"
+  sequence_num: 1111
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784912.79
+  module_name: "monitor"
+  sequence_num: 1112
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784913.31
+  module_name: "monitor"
+  sequence_num: 1113
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784913.84
+  module_name: "monitor"
+  sequence_num: 1114
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784914.35
+  module_name: "monitor"
+  sequence_num: 1115
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784914.87
+  module_name: "monitor"
+  sequence_num: 1116
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784915.4
+  module_name: "monitor"
+  sequence_num: 1117
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784915.92
+  module_name: "monitor"
+  sequence_num: 1118
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784916.43
+  module_name: "monitor"
+  sequence_num: 1119
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784916.96
+  module_name: "monitor"
+  sequence_num: 1120
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784917.47
+  module_name: "monitor"
+  sequence_num: 1121
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784917.99
+  module_name: "monitor"
+  sequence_num: 1122
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784918.52
+  module_name: "monitor"
+  sequence_num: 1123
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784919.03
+  module_name: "monitor"
+  sequence_num: 1124
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784919.55
+  module_name: "monitor"
+  sequence_num: 1125
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784920.07
+  module_name: "monitor"
+  sequence_num: 1126
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784920.59
+  module_name: "monitor"
+  sequence_num: 1127
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784921.11
+  module_name: "monitor"
+  sequence_num: 1128
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784921.63
+  module_name: "monitor"
+  sequence_num: 1129
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784922.19
+  module_name: "monitor"
+  sequence_num: 1130
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784922.71
+  module_name: "monitor"
+  sequence_num: 1131
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784922.8
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784923.24
+  module_name: "monitor"
+  sequence_num: 1132
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784923.76
+  module_name: "monitor"
+  sequence_num: 1133
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784924.27
+  module_name: "monitor"
+  sequence_num: 1134
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784924.8
+  module_name: "monitor"
+  sequence_num: 1135
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784925.11
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784925.31
+  module_name: "monitor"
+  sequence_num: 1136
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784925.91
+  module_name: "monitor"
+  sequence_num: 1137
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784926.44
+  module_name: "monitor"
+  sequence_num: 1138
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784926.96
+  module_name: "monitor"
+  sequence_num: 1139
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784927.48
+  module_name: "monitor"
+  sequence_num: 1140
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784927.5
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784928.01
+  module_name: "monitor"
+  sequence_num: 1141
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784928.52
+  module_name: "monitor"
+  sequence_num: 1142
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784929.04
+  module_name: "monitor"
+  sequence_num: 1143
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784929.57
+  module_name: "monitor"
+  sequence_num: 1144
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784929.83
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784930.09
+  module_name: "monitor"
+  sequence_num: 1145
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784930.6
+  module_name: "monitor"
+  sequence_num: 1146
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784931.13
+  module_name: "monitor"
+  sequence_num: 1147
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784931.64
+  module_name: "monitor"
+  sequence_num: 1148
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784932.16
+  module_name: "monitor"
+  sequence_num: 1149
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784932.19
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784932.69
+  module_name: "monitor"
+  sequence_num: 1150
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784933.21
+  module_name: "monitor"
+  sequence_num: 1151
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784933.73
+  module_name: "monitor"
+  sequence_num: 1152
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784934.25
+  module_name: "monitor"
+  sequence_num: 1153
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784934.58
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784934.77
+  module_name: "monitor"
+  sequence_num: 1154
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784935.29
+  module_name: "monitor"
+  sequence_num: 1155
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784935.83
+  module_name: "monitor"
+  sequence_num: 1156
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784936.34
+  module_name: "monitor"
+  sequence_num: 1157
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784936.85
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784936.86
+  module_name: "monitor"
+  sequence_num: 1158
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784937.39
+  module_name: "monitor"
+  sequence_num: 1159
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784937.9
+  module_name: "monitor"
+  sequence_num: 1160
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784938.42
+  module_name: "monitor"
+  sequence_num: 1161
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784938.95
+  module_name: "monitor"
+  sequence_num: 1162
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784939.18
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784939.47
+  module_name: "monitor"
+  sequence_num: 1163
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784939.98
+  module_name: "monitor"
+  sequence_num: 1164
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784940.51
+  module_name: "monitor"
+  sequence_num: 1165
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784941.46
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784941.91
+  module_name: "monitor"
+  sequence_num: 1166
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784942.43
+  module_name: "monitor"
+  sequence_num: 1167
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784942.95
+  module_name: "monitor"
+  sequence_num: 1168
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784943.47
+  module_name: "monitor"
+  sequence_num: 1169
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784943.99
+  module_name: "monitor"
+  sequence_num: 1170
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784944.21
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784944.51
+  module_name: "monitor"
+  sequence_num: 1171
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784945.03
+  module_name: "monitor"
+  sequence_num: 1172
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784945.55
+  module_name: "monitor"
+  sequence_num: 1173
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784946.07
+  module_name: "monitor"
+  sequence_num: 1174
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784946.47
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784946.6
+  module_name: "monitor"
+  sequence_num: 1175
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784947.12
+  module_name: "monitor"
+  sequence_num: 1176
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784947.64
+  module_name: "monitor"
+  sequence_num: 1177
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784948.16
+  module_name: "monitor"
+  sequence_num: 1178
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784948.69
+  module_name: "monitor"
+  sequence_num: 1179
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784948.84
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784949.21
+  module_name: "monitor"
+  sequence_num: 1180
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784949.73
+  module_name: "monitor"
+  sequence_num: 1181
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784950.25
+  module_name: "monitor"
+  sequence_num: 1182
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784950.77
+  module_name: "monitor"
+  sequence_num: 1183
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784951.24
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784951.29
+  module_name: "monitor"
+  sequence_num: 1184
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784951.82
+  module_name: "monitor"
+  sequence_num: 1185
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784952.34
+  module_name: "monitor"
+  sequence_num: 1186
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784952.86
+  module_name: "monitor"
+  sequence_num: 1187
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784953.37
+  module_name: "monitor"
+  sequence_num: 1188
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784953.79
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784953.95
+  module_name: "monitor"
+  sequence_num: 1189
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784954.47
+  module_name: "monitor"
+  sequence_num: 1190
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784955.0
+  module_name: "monitor"
+  sequence_num: 1191
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784955.52
+  module_name: "monitor"
+  sequence_num: 1192
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784956.04
+  module_name: "monitor"
+  sequence_num: 1193
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784956.12
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784956.56
+  module_name: "monitor"
+  sequence_num: 1194
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784957.08
+  module_name: "monitor"
+  sequence_num: 1195
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784957.6
+  module_name: "monitor"
+  sequence_num: 1196
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784958.12
+  module_name: "monitor"
+  sequence_num: 1197
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784958.64
+  module_name: "monitor"
+  sequence_num: 1198
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784958.82
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784959.16
+  module_name: "monitor"
+  sequence_num: 1199
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784959.68
+  module_name: "monitor"
+  sequence_num: 1200
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784960.2
+  module_name: "monitor"
+  sequence_num: 1201
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784960.72
+  module_name: "monitor"
+  sequence_num: 1202
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784961.24
+  module_name: "monitor"
+  sequence_num: 1203
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784961.25
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784961.77
+  module_name: "monitor"
+  sequence_num: 1204
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784962.28
+  module_name: "monitor"
+  sequence_num: 1205
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784962.81
+  module_name: "monitor"
+  sequence_num: 1206
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784963.33
+  module_name: "monitor"
+  sequence_num: 1207
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784963.82
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784963.85
+  module_name: "monitor"
+  sequence_num: 1208
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784964.37
+  module_name: "monitor"
+  sequence_num: 1209
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784964.9
+  module_name: "monitor"
+  sequence_num: 1210
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784965.42
+  module_name: "monitor"
+  sequence_num: 1211
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784966.02
+  module_name: "monitor"
+  sequence_num: 1212
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784966.28
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784966.54
+  module_name: "monitor"
+  sequence_num: 1213
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784967.05
+  module_name: "monitor"
+  sequence_num: 1214
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784967.58
+  module_name: "monitor"
+  sequence_num: 1215
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784968.1
+  module_name: "monitor"
+  sequence_num: 1216
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784968.62
+  module_name: "monitor"
+  sequence_num: 1217
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784968.79
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784969.16
+  module_name: "monitor"
+  sequence_num: 1218
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784969.67
+  module_name: "monitor"
+  sequence_num: 1219
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784970.19
+  module_name: "monitor"
+  sequence_num: 1220
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784970.72
+  module_name: "monitor"
+  sequence_num: 1221
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784971.09
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784971.24
+  module_name: "monitor"
+  sequence_num: 1222
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784971.76
+  module_name: "monitor"
+  sequence_num: 1223
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784972.28
+  module_name: "monitor"
+  sequence_num: 1224
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784973.4
+  module_name: "monitor"
+  sequence_num: 1225
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784973.42
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784973.92
+  module_name: "monitor"
+  sequence_num: 1226
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784974.44
+  module_name: "monitor"
+  sequence_num: 1227
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784974.96
+  module_name: "monitor"
+  sequence_num: 1228
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784975.48
+  module_name: "monitor"
+  sequence_num: 1229
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784976.0
+  module_name: "monitor"
+  sequence_num: 1230
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784976.04
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784976.54
+  module_name: "monitor"
+  sequence_num: 1231
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784977.07
+  module_name: "monitor"
+  sequence_num: 1232
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784977.58
+  module_name: "monitor"
+  sequence_num: 1233
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784978.11
+  module_name: "monitor"
+  sequence_num: 1234
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784978.64
+  module_name: "monitor"
+  sequence_num: 1235
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784979.16
+  module_name: "monitor"
+  sequence_num: 1236
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784979.67
+  module_name: "monitor"
+  sequence_num: 1237
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784980.2
+  module_name: "monitor"
+  sequence_num: 1238
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784980.68
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784980.74
+  module_name: "monitor"
+  sequence_num: 1239
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784981.26
+  module_name: "monitor"
+  sequence_num: 1240
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784981.79
+  module_name: "monitor"
+  sequence_num: 1241
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784982.31
+  module_name: "monitor"
+  sequence_num: 1242
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784982.83
+  module_name: "monitor"
+  sequence_num: 1243
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784983.15
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784983.37
+  module_name: "monitor"
+  sequence_num: 1244
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784983.89
+  module_name: "monitor"
+  sequence_num: 1245
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784984.4
+  module_name: "monitor"
+  sequence_num: 1246
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784984.93
+  module_name: "monitor"
+  sequence_num: 1247
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784985.45
+  module_name: "monitor"
+  sequence_num: 1248
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784985.63
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784985.97
+  module_name: "monitor"
+  sequence_num: 1249
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784986.5
+  module_name: "monitor"
+  sequence_num: 1250
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784987.02
+  module_name: "monitor"
+  sequence_num: 1251
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784987.54
+  module_name: "monitor"
+  sequence_num: 1252
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784988.03
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784988.06
+  module_name: "monitor"
+  sequence_num: 1253
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784988.59
+  module_name: "monitor"
+  sequence_num: 1254
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784989.11
+  module_name: "monitor"
+  sequence_num: 1255
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784989.63
+  module_name: "monitor"
+  sequence_num: 1256
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784990.15
+  module_name: "monitor"
+  sequence_num: 1257
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784990.34
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784990.68
+  module_name: "monitor"
+  sequence_num: 1258
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784991.2
+  module_name: "monitor"
+  sequence_num: 1259
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784991.72
+  module_name: "monitor"
+  sequence_num: 1260
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784992.26
+  module_name: "monitor"
+  sequence_num: 1261
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784992.77
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784992.78
+  module_name: "monitor"
+  sequence_num: 1262
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784993.31
+  module_name: "monitor"
+  sequence_num: 1263
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784993.83
+  module_name: "monitor"
+  sequence_num: 1264
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784994.35
+  module_name: "monitor"
+  sequence_num: 1265
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784994.86
+  module_name: "monitor"
+  sequence_num: 1266
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784995.16
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784995.38
+  module_name: "monitor"
+  sequence_num: 1267
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784995.91
+  module_name: "monitor"
+  sequence_num: 1268
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784996.43
+  module_name: "monitor"
+  sequence_num: 1269
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784996.94
+  module_name: "monitor"
+  sequence_num: 1270
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784997.47
+  module_name: "monitor"
+  sequence_num: 1271
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784997.5
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551784997.99
+  module_name: "monitor"
+  sequence_num: 1272
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784998.5
+  module_name: "monitor"
+  sequence_num: 1273
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784999.03
+  module_name: "monitor"
+  sequence_num: 1274
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784999.55
+  module_name: "monitor"
+  sequence_num: 1275
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551784999.95
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785000.13
+  module_name: "monitor"
+  sequence_num: 1276
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785000.65
+  module_name: "monitor"
+  sequence_num: 1277
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785001.17
+  module_name: "monitor"
+  sequence_num: 1278
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785001.69
+  module_name: "monitor"
+  sequence_num: 1279
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785002.21
+  module_name: "monitor"
+  sequence_num: 1280
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785002.26
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785002.73
+  module_name: "monitor"
+  sequence_num: 1281
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785003.25
+  module_name: "monitor"
+  sequence_num: 1282
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785003.77
+  module_name: "monitor"
+  sequence_num: 1283
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785004.66
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785005.2
+  module_name: "monitor"
+  sequence_num: 1284
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785005.72
+  module_name: "monitor"
+  sequence_num: 1285
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785006.32
+  module_name: "monitor"
+  sequence_num: 1286
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785006.84
+  module_name: "monitor"
+  sequence_num: 1287
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785007.34
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785007.36
+  module_name: "monitor"
+  sequence_num: 1288
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785007.88
+  module_name: "monitor"
+  sequence_num: 1289
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785008.4
+  module_name: "monitor"
+  sequence_num: 1290
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785008.92
+  module_name: "monitor"
+  sequence_num: 1291
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785009.44
+  module_name: "monitor"
+  sequence_num: 1292
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785009.73
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785009.97
+  module_name: "monitor"
+  sequence_num: 1293
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785010.49
+  module_name: "monitor"
+  sequence_num: 1294
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785011.01
+  module_name: "monitor"
+  sequence_num: 1295
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785011.53
+  module_name: "monitor"
+  sequence_num: 1296
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785012.05
+  module_name: "monitor"
+  sequence_num: 1297
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785012.08
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785012.57
+  module_name: "monitor"
+  sequence_num: 1298
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785013.09
+  module_name: "monitor"
+  sequence_num: 1299
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785013.61
+  module_name: "monitor"
+  sequence_num: 1300
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785014.13
+  module_name: "monitor"
+  sequence_num: 1301
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785014.34
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785014.65
+  module_name: "monitor"
+  sequence_num: 1302
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785015.17
+  module_name: "monitor"
+  sequence_num: 1303
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785015.69
+  module_name: "monitor"
+  sequence_num: 1304
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785016.21
+  module_name: "monitor"
+  sequence_num: 1305
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785016.61
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785016.75
+  module_name: "monitor"
+  sequence_num: 1306
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785017.27
+  module_name: "monitor"
+  sequence_num: 1307
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785017.79
+  module_name: "monitor"
+  sequence_num: 1308
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785018.31
+  module_name: "monitor"
+  sequence_num: 1309
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785018.83
+  module_name: "monitor"
+  sequence_num: 1310
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785018.97
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785019.35
+  module_name: "monitor"
+  sequence_num: 1311
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785019.87
+  module_name: "monitor"
+  sequence_num: 1312
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785020.39
+  module_name: "monitor"
+  sequence_num: 1313
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785020.91
+  module_name: "monitor"
+  sequence_num: 1314
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785021.26
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785021.44
+  module_name: "monitor"
+  sequence_num: 1315
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785021.95
+  module_name: "monitor"
+  sequence_num: 1316
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785022.46
+  module_name: "monitor"
+  sequence_num: 1317
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785022.99
+  module_name: "monitor"
+  sequence_num: 1318
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785023.51
+  module_name: "monitor"
+  sequence_num: 1319
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785023.58
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785024.02
+  module_name: "monitor"
+  sequence_num: 1320
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785024.55
+  module_name: "monitor"
+  sequence_num: 1321
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785025.07
+  module_name: "monitor"
+  sequence_num: 1322
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785025.59
+  module_name: "monitor"
+  sequence_num: 1323
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785025.96
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785026.12
+  module_name: "monitor"
+  sequence_num: 1324
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785026.64
+  module_name: "monitor"
+  sequence_num: 1325
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785027.15
+  module_name: "monitor"
+  sequence_num: 1326
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785027.68
+  module_name: "monitor"
+  sequence_num: 1327
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785028.2
+  module_name: "monitor"
+  sequence_num: 1328
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785028.25
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785028.72
+  module_name: "monitor"
+  sequence_num: 1329
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785029.24
+  module_name: "monitor"
+  sequence_num: 1330
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785029.76
+  module_name: "monitor"
+  sequence_num: 1331
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785030.27
+  module_name: "monitor"
+  sequence_num: 1332
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785030.62
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785030.8
+  module_name: "monitor"
+  sequence_num: 1333
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785031.32
+  module_name: "monitor"
+  sequence_num: 1334
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785031.84
+  module_name: "monitor"
+  sequence_num: 1335
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785032.36
+  module_name: "monitor"
+  sequence_num: 1336
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785032.88
+  module_name: "monitor"
+  sequence_num: 1337
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785032.99
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785033.4
+  module_name: "monitor"
+  sequence_num: 1338
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785033.92
+  module_name: "monitor"
+  sequence_num: 1339
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785034.44
+  module_name: "monitor"
+  sequence_num: 1340
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785034.96
+  module_name: "monitor"
+  sequence_num: 1341
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785035.32
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785035.48
+  module_name: "monitor"
+  sequence_num: 1342
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785036.6
+  module_name: "monitor"
+  sequence_num: 1343
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785037.12
+  module_name: "monitor"
+  sequence_num: 1344
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785037.58
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785037.71
+  module_name: "monitor"
+  sequence_num: 1345
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785038.23
+  module_name: "monitor"
+  sequence_num: 1346
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785038.75
+  module_name: "monitor"
+  sequence_num: 1347
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785039.27
+  module_name: "monitor"
+  sequence_num: 1348
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785039.78
+  module_name: "monitor"
+  sequence_num: 1349
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785039.82
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785040.31
+  module_name: "monitor"
+  sequence_num: 1350
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785040.83
+  module_name: "monitor"
+  sequence_num: 1351
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785041.35
+  module_name: "monitor"
+  sequence_num: 1352
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785041.87
+  module_name: "monitor"
+  sequence_num: 1353
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785042.39
+  module_name: "monitor"
+  sequence_num: 1354
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785042.41
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785042.91
+  module_name: "monitor"
+  sequence_num: 1355
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785043.43
+  module_name: "monitor"
+  sequence_num: 1356
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785043.95
+  module_name: "monitor"
+  sequence_num: 1357
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785044.47
+  module_name: "monitor"
+  sequence_num: 1358
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785044.99
+  module_name: "monitor"
+  sequence_num: 1359
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785045.01
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785045.51
+  module_name: "monitor"
+  sequence_num: 1360
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785046.03
+  module_name: "monitor"
+  sequence_num: 1361
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785046.63
+  module_name: "monitor"
+  sequence_num: 1362
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785047.15
+  module_name: "monitor"
+  sequence_num: 1363
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785047.62
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785047.66
+  module_name: "monitor"
+  sequence_num: 1364
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785048.19
+  module_name: "monitor"
+  sequence_num: 1365
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785048.7
+  module_name: "monitor"
+  sequence_num: 1366
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785049.22
+  module_name: "monitor"
+  sequence_num: 1367
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785049.74
+  module_name: "monitor"
+  sequence_num: 1368
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785050.26
+  module_name: "monitor"
+  sequence_num: 1369
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785050.29
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785050.78
+  module_name: "monitor"
+  sequence_num: 1370
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785051.3
+  module_name: "monitor"
+  sequence_num: 1371
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785051.82
+  module_name: "monitor"
+  sequence_num: 1372
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785052.34
+  module_name: "monitor"
+  sequence_num: 1373
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785052.86
+  module_name: "monitor"
+  sequence_num: 1374
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785052.88
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785053.38
+  module_name: "monitor"
+  sequence_num: 1375
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785053.89
+  module_name: "monitor"
+  sequence_num: 1376
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785054.42
+  module_name: "monitor"
+  sequence_num: 1377
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785054.93
+  module_name: "monitor"
+  sequence_num: 1378
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785055.45
+  module_name: "monitor"
+  sequence_num: 1379
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785055.47
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}
+header {
+  timestamp_sec: 1551785055.97
+  module_name: "monitor"
+  sequence_num: 1380
+}
+item {
+  source: MONITOR
+  msg: "control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "navigation_control process stopped!"
+  log_level: ERROR
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785056.49
+  module_name: "monitor"
+  sequence_num: 1381
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785057.02
+  module_name: "monitor"
+  sequence_num: 1382
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785057.54
+  module_name: "monitor"
+  sequence_num: 1383
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785058.06
+  module_name: "monitor"
+  sequence_num: 1384
+}
+item {
+  source: MONITOR
+  msg: "Hardware GPS triggers safety mode: No GNSS status message."
+  log_level: ERROR
+}
+header {
+  timestamp_sec: 1551785058.07
+  module_name: "monitor"
+  sequence_num: 1
+}
+item {
+  source: CONTROL
+  msg: "control started"
+  log_level: INFO
+}

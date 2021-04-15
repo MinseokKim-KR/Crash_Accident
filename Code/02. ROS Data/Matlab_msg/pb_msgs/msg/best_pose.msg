@@ -1,0 +1,23 @@
+std_msgs/Header header
+
+float64 measurement_time
+float64 sol_status
+float64 sol_type
+float64 latitude
+float64 longitude
+float64 height_msl
+float64 undulation
+string datum_id
+float64 latitude_std_dev
+float64 longitude_std_dev
+float64 height_std_dev
+string base_station_id
+float64 differential_age
+float64 solution_age
+int64 num_sats_tracked
+int64 num_sats_in_solution
+int64 num_sats_l1
+int64 num_sats_multi
+int64 extended_solution_status
+int64 galileo_beidou_used_mask
+int64 gps_glonass_used_mask

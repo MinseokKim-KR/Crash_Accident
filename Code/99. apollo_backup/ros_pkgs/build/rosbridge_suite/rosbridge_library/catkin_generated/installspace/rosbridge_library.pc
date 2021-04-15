@@ -1,0 +1,8 @@
+prefix=/apollo/ros_pkgs/install
+
+Name: rosbridge_library
+Description: Description of rosbridge_library
+Version: 0.8.6
+Cflags: -I/apollo/ros_pkgs/install/include
+Libs: -L/apollo/ros_pkgs/install/lib 
+Requires: message_runtime std_msgs geometry_msgs

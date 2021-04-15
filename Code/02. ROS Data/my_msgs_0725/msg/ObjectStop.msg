@@ -1,0 +1,5 @@
+my_msgs/StopReasonCode reason_code
+float64 distance_s
+my_msgs/PointENU stop_point32
+float64 stop_heading
+byte[] wait_for_obstacle

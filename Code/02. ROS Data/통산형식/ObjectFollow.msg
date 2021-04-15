@@ -1,0 +1,3 @@
+float distance_s
+pb_msgs/PointENU fence_point
+float fence_heading

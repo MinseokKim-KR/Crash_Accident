@@ -1,0 +1,8 @@
+float64 timestamp_sec
+string module_name
+uint32 sequence_num
+uint32 lidar_timestamp
+uint32 camera_timestamp
+uint32 radar_timestamp
+uint32 version
+my_msgs/Status status

@@ -1,0 +1,4 @@
+int32 FIX_NO
+int32 FIX_2D
+int32 FIX_3D
+int32 FIX_INVALID

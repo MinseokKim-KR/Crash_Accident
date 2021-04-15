@@ -1,0 +1,3 @@
+my_msgs/MainDecision main_decision
+my_msgs/ObjectDecisions object_decision
+my_msgs/Common_VehicleSignal vehicle_signal

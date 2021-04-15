@@ -1,0 +1,11 @@
+float x
+float y
+float z
+float theta
+float kappa
+float s
+float dkappa
+float ddkappa
+bytes  lane_id
+float x_derivative
+float y_derivative

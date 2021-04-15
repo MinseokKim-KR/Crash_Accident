@@ -1,0 +1,553 @@
+
+[MessageType("pb_msgs/ADCTrajectory")]
+
+     struct ADCTrajectory
+    {
+         ApolloHeader header
+         float total_path_length
+         float total_path_time
+         List<TrajectoryPoint> trajectory_point
+         Estop estop
+         PathPoint path_point
+         bool is_replan
+         Apollo.Chassis.GearPosition gear
+         DecisionResult decision
+         LatencyStats latency_stats
+         ApolloHeader routing_header
+          Apollo.Planning.Debug debug
+
+
+    }
+
+     struct TrajectoryPoint
+    {
+         PathPoint path_point
+         float v
+         float a
+         float relative_time
+    }
+
+     struct PathPoint
+    {
+         float x
+         float y
+         float z
+         float theta
+         float kappa
+         float s
+         float dkappa
+         float ddkappa
+         bytes lane_id
+         float x_derivative
+         float y_derivative
+    }
+
+     struct Estop
+    {
+         bool is_estop
+         bytes reason
+    }
+
+     struct DecisionResult
+    {
+         MainDecision main_decision
+         ObjectDecisions object_decision
+         Apollo.Common.VehicleSignal vehicle_signal
+    }
+
+     struct MainDecision
+    {
+         MainMissionComplete? mission_complete
+         MainNotReady? not_ready
+         MainParking? parking
+    }
+
+     struct MainMissionComplete
+    {
+         PointENU stop_point
+         float stop_heading
+    }
+
+     struct MainNotReady
+    {
+     bytes reason
+    }
+
+     struct MainParking
+    {
+    }
+
+     struct ObjectDecisions
+    {
+         List<ObjectDecision> decisions
+    }
+
+     struct ObjectDecision
+    {
+         bytes id
+         int perception_id
+         List<ObjectDecisionType> object_decision
+    }
+
+     struct ObjectDecisionType
+    {
+         ObjectIgnore? ignore
+         ObjectStop? stop
+         ObjectFollow? follow
+         ObjectYield? yield
+         ObjectOvertake? overtake
+         ObjectNudge? nudge
+         ObjectSidePass? sidepass
+         ObjectAvoid? avoid
+
+    }
+
+     struct ObjectIgnore
+    {
+    }
+
+     struct ObjectStop
+    {
+         StopReasonCode reason_code
+         float distance_s
+         PointENU stop_point
+         float stop_heading
+         List<string> wait_for_obstacle
+    }
+
+     enum StopReasonCode (enum 형식 민석형 물어보기)
+    {
+        int STOP_REASON_HEAD_VEHICLE = 1,
+        int STOP_REASON_DESTINATION = 2,
+        int STOP_REASON_PEDESTRIAN = 3,
+        int STOP_REASON_OBSTACLE = 4,
+        int STOP_REASON_PREPARKING = 5,
+        int STOP_REASON_SIGNAL = 100, // only for red signal
+        int STOP_REASON_STOP_SIGN = 101,
+        int STOP_REASON_YIELD_SIGN = 102,
+        int STOP_REASON_CLEAR_ZONE = 103,
+        int STOP_REASON_CROSSWALK = 104,
+        int STOP_REASON_CREEPER = 105,
+        int STOP_REASON_REFERENCE_END = 106, // end of the reference_line
+        int STOP_REASON_YELLOW_SIGNAL = 107, // yellow signal
+        int STOP_REASON_PULL_OVER = 108, // pull over
+    }
+
+     struct ObjectFollow
+    {
+         float distance_s
+         PointENU fence_point
+         float fence_heading
+    }
+
+     struct ObjectYield
+    {
+         float distance_s
+         PointENU fence_point
+         float fence_heading
+         float time_buffer
+    }
+
+     struct ObjectOvertake
+    {
+         float distance_s
+         PointENU fence_point
+         float fence_heading
+         float time_buffer
+    }
+
+     struct ObjectNudge
+    {
+         NudgeType type
+         float distance_l
+    }
+
+     enum NudgeType
+    {
+        int LEFT_NUDGE = 1,  // drive from the left side of the obstacle
+        int RIGHT_NUDGE = 2,  // drive from the right side of the obstacle
+        int NO_NUDGE = 3,  // No nudge is set.
+    }
+
+     struct ObjectSidePass
+    {
+         SidePassType type
+    }
+    
+     enum SidePassType
+    {
+        int LEFT = 1,
+        int RIGHT = 2,
+    }
+
+     struct ObjectAvoid
+    {
+    }
+
+    namespace Apollo
+    {   
+        [MessageType("pb_msgs/Imu")]
+         struct Imu
+        {
+             ApolloHeader? header
+             float? measurement_time
+             float? measurement_span
+             Point3D? linear_acceleration
+             Point3D? angular_velocity
+        }
+        namespace Common
+        {
+             struct StatusPb
+            {
+                 ErrorCode error_code
+                 bytes msg
+            }
+
+             enum ErrorCode
+            {
+                // No error, reutrns on success.
+                int OK = 0,
+
+                // Control module error codes start from here.
+                int CONTROL_ERROR = 1000,
+                int CONTROL_INIT_ERROR = 1001,
+                int CONTROL_COMPUTE_ERROR = 1002,
+
+                // Canbus module error codes start from here.
+                int CANBUS_ERROR = 2000,
+                int CAN_CLIENT_ERROR_BASE = 2100,
+                int CAN_CLIENT_ERROR_OPEN_DEVICE_FAILED = 2101,
+                int CAN_CLIENT_ERROR_FRAME_NUM = 2102,
+                int CAN_CLIENT_ERROR_SEND_FAILED = 2103,
+                int CAN_CLIENT_ERROR_RECV_FAILED = 2104,
+
+                // Localization module error codes start from here.
+                int LOCALIZATION_ERROR = 3000,
+                int LOCALIZATION_ERROR_MSG = 3100,
+                int LOCALIZATION_ERROR_LIDAR = 3200,
+                int LOCALIZATION_ERROR_INTEG = 3300,
+                int LOCALIZATION_ERROR_GNSS = 3400,
+
+                // Perception module error codes start from here.
+                int PERCEPTION_ERROR = 4000,
+                int PERCEPTION_ERROR_TF = 4001,
+                int PERCEPTION_ERROR_PROCESS = 4002,
+                int PERCEPTION_FATAL = 4003,
+
+                // Prediction module error codes start from here.
+                int PREDICTION_ERROR = 5000,
+
+                // Planning module error codes start from here
+                int PLANNING_ERROR = 6000,
+
+                // HDMap module error codes start from here
+                int HDMAP_DATA_ERROR = 7000,
+
+                // Routing module error codes
+                int ROUTING_ERROR = 8000,
+                int ROUTING_ERROR_REQUEST = 8001,
+                int ROUTING_ERROR_RESPONSE = 8002,
+                int ROUTING_ERROR_NOT_READY = 8003,
+
+                // Indicates an input has been exhausted.
+                int END_OF_INPUT = 9000,
+
+                // HTTP request error codes.
+                int HTTP_LOGIC_ERROR = 10000,
+                int HTTP_RUNTIME_ERROR = 10001,
+
+                // Relative Map error codes.
+                int RELATIVE_MAP_ERROR = 11000, // general relative map error code
+                int RELATIVE_MAP_NOT_READY = 11001,
+
+                // Driver error codes.
+                int DRIVER_ERROR_GNSS = 12000,
+                int DRIVER_ERROR_VELODYNE = 13000,
+            }
+
+             struct VehicleSignal
+            {
+                 TurnSignal? turn_signal
+                 bool? high_beam
+                 bool? low_beam
+                 bool? horn
+                 bool? emergency_light
+            }
+
+             enum Advice 
+            {
+                int UNKNOWN = 0,
+                int DISALLOW_ENGAGE = 1,
+                int READY_TO_ENGAGE = 2,
+                int KEEP_ENGAGED = 3,
+                int PREPARE_DISENGAGE = 4,
+            }
+
+             struct EngageAdvise
+            {
+                 Advice? advice
+                 bytes reason
+            }
+        }
+
+        namespace Chassis
+        {
+             enum DrivingMode
+            {
+                int COMPLETE_MANUAL = 0,
+                int COMPLETE_AUTO_DRIVE = 1,
+                int AUTO_STEER_ONLY = 2,
+                int AUTO_SPEED_ONLY = 3,
+                int EMERGENCY_MODE = 4,
+            }
+
+             enum ErrorCode
+            {
+                int NO_ERROR = 0,
+                int CMD_NOT_IN_PERIOD = 1,
+                int CHASSIS_ERROR = 2,
+                int MANUAL_INTERVENTION = 3,
+                int CHASSIS_CAN_NOT_IN_PERIOD = 4,
+                int UNKNOWN_ERROR = 5,
+            }
+
+             enum GearPosition
+            {
+                int GEAR_NEUTRAL = 0,
+                int GEAR_DRIVE = 1,
+                int GEAR_REVERSE = 2,
+                int GEAR_PARKING = 3,
+                int GEAR_LOW = 4,
+                int GEAR_INVALID = 5,
+                int GEAR_NONE = 6,
+            }
+
+             struct ChassisGPS
+            {
+                 float? latitude
+                 float? longitude
+                 bool? gps_valid
+                 int? year
+                 int? month
+                 int? day
+                 int? hours
+                 int? minutes
+                 int? seconds
+                 float? compass_direction
+                 float? pdop
+                 bool? is_gps_fault
+                 bool? is_inferred
+                 float? altitude
+                 float? heading
+                 float? hdop
+                 float? vdop
+                 GpsQuality? quality
+                 int? num_satellites
+                 float? gps_speed
+            }
+
+             enum GpsQuality {
+                int FIX_NO = 0,
+                int FIX_2D = 1,
+                int FIX_3D = 2,
+                int FIX_INVALID = 3,
+            }
+
+
+        }
+
+        // Chassis related topic used as feedback for the control module.
+        [MessageType("pb_msgs/Chassis")]
+         struct ChassisMsg
+        {
+             bool engine_started
+             float? engine_rpm
+             float? speed_mps
+             float? odometer_m
+             int? fuel_range_m
+             float? throttle_percentage
+             float? brake_percentage
+             float? steering_percentage
+             float? steering_torque_nm
+             bool? parking_brake
+             bool? high_beam_signal
+             bool? low_beam_signal
+             bool? left_turn_signal
+             bool? right_turn_signal
+             bool? horn
+             bool? wiper
+             bool? disengage_status
+             Chassis.DrivingMode? driving_mode
+             Chassis.ErrorCode? error_code
+             Chassis.GearPosition? gear_location
+             float? steering_timestamp
+             ApolloHeader? header
+             int? chassis_error_mask
+             Common.VehicleSignal? signal
+             Chassis.ChassisGPS? chassis_gps
+             Common.EngageAdvise? engage_advice
+
+        }
+
+
+        namespace Drivers
+        {
+            namespace Conti_Radar
+            {
+                 enum OutputType
+                {
+                    int OUTPUT_TYPE_NONE = 0,
+                    int OUTPUT_TYPE_OBJECTS = 1,
+                    int OUTPUT_TYPE_CLUSTERS = 2,
+                    int OUTPUT_TYPE_ERROR = 3,
+                }
+
+                 enum RcsThreshold
+                {
+                    int RCS_THRESHOLD_STANDARD = 0,
+                    int RCS_THRESHOLD_HIGH_SENSITIVITY = 1,
+                    int RCS_THRESHOLD_ERROR = 2,
+                }
+            }
+
+             struct ContiRadarObs
+            {
+                 ApolloHeader? header
+                 bool? clusterortrack
+                 int? obstacle_id
+                 float longitude_dist
+                 float lateral_dist
+                 float longitude_vel
+                 float lateral_vel
+                 float? rcs
+                 int? dynprop
+                 float? longitude_dist_rms
+                 float? lateral_dist_rms
+                 float? longitude_vel_rms
+                 float? lateral_vel_rms
+                 float? probexist
+                 int? meas_state
+                 float? longitude_accel
+                 float? lateral_accel
+                 float? oritation_angle
+                 float? longitude_accel_rms
+                 float? lateral_accel_rms
+                 float? oritation_angle_rms
+                 float? length
+                 float? width
+                 int? obstacle_class
+            }
+
+             struct ClusterListStatus_600
+            {
+                 int? near
+                 int? far
+                 int? meas_counter
+                 int? interface_version
+            }
+             struct ObjectListStatus_60A
+            {
+                 int? nof_objects
+                 int? meas_counter
+                 int? interface_version
+            }
+                        
+             struct RadarState_201
+            {                
+                 uint? max_distance
+                 uint? radar_power
+                 Conti_Radar.OutputType? output_type
+                 Conti_Radar.RcsThreshold? rcs_threshold
+                 bool? send_quality
+                 bool? send_ext_info
+            }
+
+            [MessageType("pb_msgs/ContiRadar")]
+             struct ContiRadar
+            {
+                 ApolloHeader? header
+                 List<ContiRadarObs> contiobs
+                 RadarState_201? radar_state
+                 ClusterListStatus_600? cluster_list_status
+                 ObjectListStatus_60A? object_list_status
+            }
+        }
+
+        namespace Planning
+        {
+             struct Debug
+            {
+                 PlanningData planning_data
+            }
+
+             struct PlanningData
+            {
+                 Apollo.Localization.LocalizationEstimate adc_position
+                 ChassisMsg chassis
+                //  Routing.RoutingResponse routing
+                 TrajectoryPoint init_point
+                //  Path path
+                //  SpeedPlan speed_plan
+                // ....
+
+            }
+
+        }
+
+        namespace Localization
+        {
+             struct LocalizationEstimate
+            {
+                 ApolloHeader header
+                 ApolloPose pose
+                 Uncertainty uncertainty
+                 float measurement_time
+                 List<TrajectoryPoint> trajectory_point
+            }
+
+             struct Uncertainty
+            {
+                 Point3D position_std_dev
+                 Point3D orientation_std_dev
+                 Point3D linear_velocity_std_dev
+                 Point3D linear_acceleration_std_dev
+                 Point3D angular_velocity_std_dev
+            }
+        }
+
+        namespace Routing
+        {
+            [MessageType("pb_msgs/RoutingRequest")]
+             struct RoutingRequest
+            {
+                 ApolloHeader header
+                 List<LaneWayPoint> waypoint
+                 List<LaneSegment> blacklisted_lane
+                 List<bytes> blacklisted_road
+                 bool broadcast
+            }
+
+             struct LaneSegment
+            {
+                 bytes id
+                 float start_s
+                 float end_s
+            }
+
+             struct LaneWayPoint
+            {
+                 bytes id
+                 float s
+                 PointENU pose
+            }
+
+            [MessageType("pb_msgs/RoutingResponse")]
+             struct RoutingResponse
+            {
+                 ApolloHeader header
+                // other stuff...
+
+                 Apollo.Common.StatusPb status
+            }
+        }
+    }

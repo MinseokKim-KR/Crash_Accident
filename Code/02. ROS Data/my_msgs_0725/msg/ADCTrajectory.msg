@@ -1,0 +1,12 @@
+my_msgs/Header header
+float64 total_path_length
+float64 total_path_time
+my_msgs/TrajectoryPoint[] trajectory_point
+my_msgs/Estop estop
+my_msgs/PathPoint path_point
+bool is_replan
+my_msgs/Chassis_GearPosition gear 
+my_msgs/DecisionResult decision
+my_msgs/LatencyStats latency_stats
+my_msgs/Header routing_header
+my_msgs/Planning_Debug debug
